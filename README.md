@@ -10,7 +10,7 @@ $ pip install prime2_clp2181
 
 ## Usage
 
-- TODO
+- See further documentation at https://readthedocs.org/projects/prime2-clp2181/builds/22927616/
 
 ## Contributing
 
