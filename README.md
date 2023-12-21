@@ -5,7 +5,7 @@ A package for hw7
 ## Installation
 
 ```bash
-$ pip install prime2_clp2181
+$ pip install -i https://test.pypi.org/simple/ prime2_clp2181
 ```
 
 ## Usage
